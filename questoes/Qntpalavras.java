@@ -1,3 +1,5 @@
+package questoes;
+
 public class Qntpalavras {
     public static void main(String[] args) {
         String frase = "a praia ta cheia";

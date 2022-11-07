@@ -1,3 +1,5 @@
+package questoes;
+
 public class Qntvogais {
     public static void main(String[] args) {
         String frase = "pamonha social";

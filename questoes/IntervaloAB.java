@@ -1,3 +1,5 @@
+package questoes;
+
 import java.util.ArrayList;
 
 public class IntervaloAB {

@@ -1,3 +1,5 @@
+package questoes;
+
 public class Fatorial {
     public static void main(String[] args) {
         int a = 7;

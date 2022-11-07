@@ -1,3 +1,5 @@
+package questoes;
+
 public class Maior5 {
     public static void main(String[] args) {
         int a = 10;
